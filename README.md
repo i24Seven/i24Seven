@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @i24Seven
-- 👀 I’m interested in Robots
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Robots
-- 📫 How to reach me ... iAmBrams@Hotmail.com
+- 👋 Hi, This is i24Seven,
+- You can reach me at @i24Seven in GitHub website., 
+- ========================= : iLoveYou : =========================
 
 <!---
 i24Seven/i24Seven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
